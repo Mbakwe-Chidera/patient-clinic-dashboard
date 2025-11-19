@@ -20,10 +20,4 @@ Open the file and the portal works instantly.
 
 ---
 
-## File map
-patient-portal/
-├── index.html               ← complete markup
-├── style.css                ← all layout & colours
-├── avatar.jpg               ← patient photo (swap for any 80×80 px image)
-└── README.md                ← this file
 <img width="1597" height="677" alt="Screenshot 2025-11-19 at 2 44 47 PM" src="https://github.com/user-attachments/assets/fb0a6d0d-2a28-4dfc-9391-42cc177fead8" />
