@@ -1,9 +1,7 @@
-# Patient Portal – Pure HTML & CSS
+# Patient Portal – HTML & CSS
 
 A one-page patient dashboard that shows medical history, vaccinations and quick navigation.  
 No JavaScript, no build tools—just `index.html`, `style.css` and a free Google font icon set.  
-Open the file and the portal works instantly.
-
 ---
 
 ## What you see
